@@ -4,4 +4,4 @@ console.log ("How is the training going?");
 
 console.log ("homework");
 
-console.log ("hiiiii");
+console.log ("hiiiii"); // comment again
